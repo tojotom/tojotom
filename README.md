@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tojotom
+- 👋 Hi, I’m Tojo Tom
 - 👀 I’m interested in blockchain, IoT, Embedded systems
 - 🌱 I’m currently learning blockchain technology and how to apply it to IoT
 - 💞️ I’m looking to collaborate on blockchain based IoT solutions
